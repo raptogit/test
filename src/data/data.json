@@ -1,0 +1,98 @@
+{
+  "Header": {
+    "title": "Your fruit our prediction",
+    "paragraph": "Validate each and every fruit you consume."
+  },
+  "About": {
+    "paragraph": "We were just wandering and wrangling various datasets on which we can explore and learn we came across various different datasets.But the one we found promising is the fruits dataset from kaggle and we started building our project.",
+    "Why": [
+      "Real world problem.",
+      "Tried Various Deep Learning modles.",
+      "Built FrontEnd with ReactJs",
+      "Built Backend with FastApi python"
+    ],
+    "Why2": [
+      "Used Colab notebook for experimentation.",
+      "We will have to try various models in the future.",
+      "We are open for suggestions.",
+      "Feel free to contact us"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Rohan Solanke",
+      "job": "Data Engineer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Sandeep Dey",
+      "job": "Data Analyst"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Pratyush Pattnik",
+      "job": "Data Scientist"
+    }
+  ],
+  "Contact": {
+    "email": "beingdatas@gmail.com",
+    "facebook": "https://www.linkedin.com/in/rohan-solanke/",
+    "twitter": "https://www.linkedin.com/in/pratyush-pattnaik-1792ab171/",
+    "youtube": "https://www.linkedin.com/in/sandeep-dey-122sd/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Everyday Usecase",
+      "text": "In day to day life we come across very few healthy options and fruits is amongst the most healthy option available."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Validate",
+      "text": "Validate every fruit you eat to avoid harmful effects on your body and maintain a healthy lifestyle."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Portable",
+      "text": "As the idea is for web app only we can also put support for fruit detection devices and link to our API."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Deep Learning",
+      "text": "We have applied various deep learning models and tried to take out the best but we can improve much more by trying out various models."
+    }
+  ]
+}
